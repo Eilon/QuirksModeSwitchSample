@@ -1,4 +1,5 @@
 ﻿{
+  // Set the switch here to affect .NET Core apps
   "configProperties": {
     "switch:aspnet.test": "true"
   }

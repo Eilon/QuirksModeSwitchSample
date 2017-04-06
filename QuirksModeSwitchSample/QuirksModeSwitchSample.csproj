@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="app.config" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Include="app.config" />
   </ItemGroup>
 
