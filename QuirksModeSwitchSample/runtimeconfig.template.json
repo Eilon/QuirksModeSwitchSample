@@ -1,0 +1,5 @@
+﻿{
+  "configProperties": {
+    "switch:aspnet.test": "true"
+  }
+}
